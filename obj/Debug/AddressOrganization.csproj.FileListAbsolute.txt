@@ -1,0 +1,7 @@
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\bin\Debug\AddressOrganization.exe.config
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\bin\Debug\AddressOrganization.exe
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\bin\Debug\AddressOrganization.pdb
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\obj\Debug\AddressOrganization.csprojAssemblyReference.cache
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\obj\Debug\AddressOrganization.csproj.CoreCompileInputs.cache
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\obj\Debug\AddressOrganization.exe
+F:\Рабочее место\УЧЕБА\Сессия 06.11\Шимановская\AddressOrganization\AddressOrganization\obj\Debug\AddressOrganization.pdb
